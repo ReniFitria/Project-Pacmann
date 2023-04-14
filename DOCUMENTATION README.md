@@ -53,10 +53,18 @@ OUTPUT:
 
 
 
+
+
  ![image](https://user-images.githubusercontent.com/8916321/231966906-9020ee35-07e2-4d75-be38-850f03917b97.png)
  
 TEST 3: RESET Semua Transaksi
 OUTPUT:
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/8916321/231966999-db73e269-8b24-4830-9673-fee4f2b64406.png)
 
 TEST 4: Total Price yang dibayarkan
